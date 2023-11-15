@@ -11,8 +11,11 @@ bash run.sh
 ```
 
 ## Results
+
 ### MNIST
+
 ![](/images/mnist.png)
 
 ### CIFAR
+
 ![](/images/cifar.png)
