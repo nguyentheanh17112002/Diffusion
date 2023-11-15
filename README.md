@@ -1,4 +1,4 @@
-#DIFFUSION MODELS
+# DIFFUSION MODELS
 
 This is a repository that re-implements the DDPMs model based on the notebook at [PyTorch implementation of 'Denoising Diffusion Probabilistic Models'](https://github.com/awjuliani/pytorch-diffusion).
 
@@ -10,9 +10,9 @@ To rerun the experiment, first enter your Wandb API Key in the `run.sh` file for
 bash run.sh
 ```
 
-##Results
-###MNIST
+## Results
+### MNIST
 ![](/images/mnist.png)
 
-###CIFAR
+### CIFAR
 ![](/images/cifar.png)
